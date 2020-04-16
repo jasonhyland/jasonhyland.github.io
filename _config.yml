@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-title: Jason Hylands Projects # your site title
+title: Jason Hyland's Development Projects # your site title
 author: Jason Hyland # You :P
 description: > # Meta description of Homepage
-  Place to publish various projects
+  This is a place to publish various projects.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://projects.jasonhyland.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
