@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Jason Hyland's Development Projects # your site title
+title: Jason's Dev # your site title
 author: Jason Hyland # You :P
 description: > # Meta description of Homepage
   This is a place to publish various projects.
@@ -19,7 +19,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Journey through code.....
+  A random collection of stuff I created.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
