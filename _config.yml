@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-title: Jason's Dev # your site title
+title: Hey, I'm Jason. # your site title
 author: Jason Hyland # You :P
 description: > # Meta description of Homepage
-  This is a place to publish various projects.
+  I'm a developer and general bit twiddler based in the UK. You've landed on my projects page - thanks for visiting! This is a place where I store some really random home projects I've worked on.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://projects.jasonhyland.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -16,10 +16,10 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+
 
 tagline: >
-  A random collection of stuff I created.
+  I'm a developer and general bit twiddler based in the UK. You've landed on my projects page - thanks for visiting! This is a place where I store some really random home projects I've worked on. I hope you like them!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
@@ -53,7 +53,7 @@ exclude:
 
 include: ['_pages']
 permalink: /:title/
-
+ 
 compress_html:
   clippings: all
 
